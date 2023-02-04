@@ -17,3 +17,7 @@
 ### Structural
 
 [slocum's FUNdaMENTALs: 8: Structure](http://pergatory.mit.edu/resources/FUNdaMENTALs%20Book%20pdf/FUNdaMENTALs%20Topic%208.PDF)  
+
+### Design Tools
+
+[jake's CAD intro](https://mtm.cba.mit.edu/2020/2020-06_cad-hello-world/)  
