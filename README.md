@@ -21,3 +21,21 @@
 ### Design Tools
 
 [jake's CAD intro](https://mtm.cba.mit.edu/2020/2020-06_cad-hello-world/)  
+
+
+### Vendors
+
+**US**
+
+- [Motion Constrained](https://motionconstrained.com/) - Linear rails cut to size
+- [McMaster](https://www.mcmaster.com/) - All kinds of hardware
+- [OpenBuilds](https://openbuildspartstore.com/) - Motors, extrusions and more
+- [Misumi](https://us.misumi-ec.com/) - Linear motion components, precision square/uprigths and more
+
+**EU**
+
+- [Tuli](https://www.tuli-shop.com/) - Linear rails and ball screws cut to size
+- [CNC Store](https://www.cnc-store.eu/) - Linear rails cut to size
+- [Ooznest](https://ooznest.co.uk/) - Openbuilds stuff in the UK
+- [Maker supplies](https://makersupplies.dk/) - Openbuilds stuff in Denmark
+- [Sorotec](https://www.sorotec.de/shop/) - Good german shop for spindles, cutting tools and more
