@@ -39,3 +39,5 @@
 - [Ooznest](https://ooznest.co.uk/) - Openbuilds stuff in the UK
 - [Maker supplies](https://makersupplies.dk/) - Openbuilds stuff in Denmark
 - [Sorotec](https://www.sorotec.de/shop/) - Good german shop for spindles, cutting tools and more
+- [Accu](https://www.accu.co.uk)- Vitamin hardware, UK
+- [Westfield Fasteners](https://www.westfieldfasteners.co.uk) - Excellent fasteners, UK 
